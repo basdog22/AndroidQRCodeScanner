@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Android QR Code Scanner</string>
+    <string name="app_name">LiveOn Id Scanner</string>
+    <string name="newscantxt">Νεο σκαναρισμα</string>
+    <string name="scanner_animation">Scanner animation</string>
 </resources>
